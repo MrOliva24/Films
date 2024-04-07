@@ -1,0 +1,13 @@
+-------------------------------------------------- 
+
+	1 - Llistats de pel·lícules. 
+
+-------------------------------------------------- 
+
+1 Mostrar llistat de pel·lícules (alfabètic per títol).
+ 
+2 Mostrar llistat de pel·lícules ordenats cronològicament per 
+any en ordre descendent. 
+
+3 Mostrar llistat de pel·lícules ordenades per l’edat mínima 
+necessària.

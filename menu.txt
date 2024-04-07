@@ -1,0 +1,17 @@
+--------------------------------------------------------- 
+
+Base de Dades de pel·lícules 
+
+---------------------------------------------------------
+
+
+1. Llistats de pel·lícules. 
+
+2. Cerca de pel·lícula. 
+
+3. Ets realment un Expert en pel·lícules? 
+
+4. Altes, baixes i modificacions de la base de dades. 
+
+0. Sortir.
+
